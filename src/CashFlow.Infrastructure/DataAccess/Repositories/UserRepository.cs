@@ -4,9 +4,14 @@ using Microsoft.EntityFrameworkCore;
 
 namespace CashFlow.Infrastructure.DataAccess.Repositories;
 
-internal class ChangePassword : IUserReadOnlyRepository, IUserWriteOnlyRepository, IUserUpdateOnlyRepository
+internal class UserRepository : IUserReadOnlyRepository, IUserWriteOnlyRepository, IUserUpdateOnlyRepository
 {
     private readonly CashFlowDbContext _dbContext;
+
+    public UserRepository(CashFlowDbContext dbContext)
+    {
+        _dbContext = dbContext;
+    }
 
     public async Task Add(User user)
     {
@@ -43,10 +48,5 @@ internal class ChangePassword : IUserReadOnlyRepository, IUserWriteOnlyRepositor
             .FindAsync(user.Id);
 
         _dbContext.Users.Remove(userToRemove!);
-    }
-
-    public ChangePassword(CashFlowDbContext dbContext)
-    {
-        _dbContext = dbContext;
     }
 }
