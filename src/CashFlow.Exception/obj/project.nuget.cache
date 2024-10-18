@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CtUKhCzVX8w=",
+  "dgSpecHash": "uHqaVKyt1Uk=",
   "success": true,
-  "projectFilePath": "D:\\Repositorios\\Rocketseat\\C#\\CashFlow\\src\\CashFlow.Exception\\CashFlow.Exception.csproj",
+  "projectFilePath": "D:\\Repositorios\\Rocketseat\\C#\\cash-flow-api\\src\\CashFlow.Exception\\CashFlow.Exception.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

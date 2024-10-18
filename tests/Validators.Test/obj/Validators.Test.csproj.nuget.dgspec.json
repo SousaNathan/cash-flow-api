@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Repositorios\\Rocketseat\\C#\\CashFlow\\tests\\Validators.Test\\Validators.Test.csproj": {}
+    "D:\\Repositorios\\Rocketseat\\C#\\cash-flow-api\\tests\\Validators.Test\\Validators.Test.csproj": {}
   },
   "projects": {
-    "D:\\Repositorios\\Rocketseat\\C#\\CashFlow\\src\\CashFlow.Application\\CashFlow.Application.csproj": {
+    "D:\\Repositorios\\Rocketseat\\C#\\cash-flow-api\\src\\CashFlow.Application\\CashFlow.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Repositorios\\Rocketseat\\C#\\CashFlow\\src\\CashFlow.Application\\CashFlow.Application.csproj",
+        "projectUniqueName": "D:\\Repositorios\\Rocketseat\\C#\\cash-flow-api\\src\\CashFlow.Application\\CashFlow.Application.csproj",
         "projectName": "CashFlow.Application",
-        "projectPath": "D:\\Repositorios\\Rocketseat\\C#\\CashFlow\\src\\CashFlow.Application\\CashFlow.Application.csproj",
+        "projectPath": "D:\\Repositorios\\Rocketseat\\C#\\cash-flow-api\\src\\CashFlow.Application\\CashFlow.Application.csproj",
         "packagesPath": "C:\\Users\\natha\\.nuget\\packages\\",
-        "outputPath": "D:\\Repositorios\\Rocketseat\\C#\\CashFlow\\src\\CashFlow.Application\\obj\\",
+        "outputPath": "D:\\Repositorios\\Rocketseat\\C#\\cash-flow-api\\src\\CashFlow.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -33,14 +33,14 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\Repositorios\\Rocketseat\\C#\\CashFlow\\src\\CashFlow.Communication\\CashFlow.Communication.csproj": {
-                "projectPath": "D:\\Repositorios\\Rocketseat\\C#\\CashFlow\\src\\CashFlow.Communication\\CashFlow.Communication.csproj"
+              "D:\\Repositorios\\Rocketseat\\C#\\cash-flow-api\\src\\CashFlow.Communication\\CashFlow.Communication.csproj": {
+                "projectPath": "D:\\Repositorios\\Rocketseat\\C#\\cash-flow-api\\src\\CashFlow.Communication\\CashFlow.Communication.csproj"
               },
-              "D:\\Repositorios\\Rocketseat\\C#\\CashFlow\\src\\CashFlow.Domain\\CashFlow.Domain.csproj": {
-                "projectPath": "D:\\Repositorios\\Rocketseat\\C#\\CashFlow\\src\\CashFlow.Domain\\CashFlow.Domain.csproj"
+              "D:\\Repositorios\\Rocketseat\\C#\\cash-flow-api\\src\\CashFlow.Domain\\CashFlow.Domain.csproj": {
+                "projectPath": "D:\\Repositorios\\Rocketseat\\C#\\cash-flow-api\\src\\CashFlow.Domain\\CashFlow.Domain.csproj"
               },
-              "D:\\Repositorios\\Rocketseat\\C#\\CashFlow\\src\\CashFlow.Exception\\CashFlow.Exception.csproj": {
-                "projectPath": "D:\\Repositorios\\Rocketseat\\C#\\CashFlow\\src\\CashFlow.Exception\\CashFlow.Exception.csproj"
+              "D:\\Repositorios\\Rocketseat\\C#\\cash-flow-api\\src\\CashFlow.Exception\\CashFlow.Exception.csproj": {
+                "projectPath": "D:\\Repositorios\\Rocketseat\\C#\\cash-flow-api\\src\\CashFlow.Exception\\CashFlow.Exception.csproj"
               }
             }
           }
@@ -93,14 +93,14 @@
         }
       }
     },
-    "D:\\Repositorios\\Rocketseat\\C#\\CashFlow\\src\\CashFlow.Communication\\CashFlow.Communication.csproj": {
+    "D:\\Repositorios\\Rocketseat\\C#\\cash-flow-api\\src\\CashFlow.Communication\\CashFlow.Communication.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Repositorios\\Rocketseat\\C#\\CashFlow\\src\\CashFlow.Communication\\CashFlow.Communication.csproj",
+        "projectUniqueName": "D:\\Repositorios\\Rocketseat\\C#\\cash-flow-api\\src\\CashFlow.Communication\\CashFlow.Communication.csproj",
         "projectName": "CashFlow.Communication",
-        "projectPath": "D:\\Repositorios\\Rocketseat\\C#\\CashFlow\\src\\CashFlow.Communication\\CashFlow.Communication.csproj",
+        "projectPath": "D:\\Repositorios\\Rocketseat\\C#\\cash-flow-api\\src\\CashFlow.Communication\\CashFlow.Communication.csproj",
         "packagesPath": "C:\\Users\\natha\\.nuget\\packages\\",
-        "outputPath": "D:\\Repositorios\\Rocketseat\\C#\\CashFlow\\src\\CashFlow.Communication\\obj\\",
+        "outputPath": "D:\\Repositorios\\Rocketseat\\C#\\cash-flow-api\\src\\CashFlow.Communication\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -158,14 +158,14 @@
         }
       }
     },
-    "D:\\Repositorios\\Rocketseat\\C#\\CashFlow\\src\\CashFlow.Domain\\CashFlow.Domain.csproj": {
+    "D:\\Repositorios\\Rocketseat\\C#\\cash-flow-api\\src\\CashFlow.Domain\\CashFlow.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Repositorios\\Rocketseat\\C#\\CashFlow\\src\\CashFlow.Domain\\CashFlow.Domain.csproj",
+        "projectUniqueName": "D:\\Repositorios\\Rocketseat\\C#\\cash-flow-api\\src\\CashFlow.Domain\\CashFlow.Domain.csproj",
         "projectName": "CashFlow.Domain",
-        "projectPath": "D:\\Repositorios\\Rocketseat\\C#\\CashFlow\\src\\CashFlow.Domain\\CashFlow.Domain.csproj",
+        "projectPath": "D:\\Repositorios\\Rocketseat\\C#\\cash-flow-api\\src\\CashFlow.Domain\\CashFlow.Domain.csproj",
         "packagesPath": "C:\\Users\\natha\\.nuget\\packages\\",
-        "outputPath": "D:\\Repositorios\\Rocketseat\\C#\\CashFlow\\src\\CashFlow.Domain\\obj\\",
+        "outputPath": "D:\\Repositorios\\Rocketseat\\C#\\cash-flow-api\\src\\CashFlow.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -223,14 +223,14 @@
         }
       }
     },
-    "D:\\Repositorios\\Rocketseat\\C#\\CashFlow\\src\\CashFlow.Exception\\CashFlow.Exception.csproj": {
+    "D:\\Repositorios\\Rocketseat\\C#\\cash-flow-api\\src\\CashFlow.Exception\\CashFlow.Exception.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Repositorios\\Rocketseat\\C#\\CashFlow\\src\\CashFlow.Exception\\CashFlow.Exception.csproj",
+        "projectUniqueName": "D:\\Repositorios\\Rocketseat\\C#\\cash-flow-api\\src\\CashFlow.Exception\\CashFlow.Exception.csproj",
         "projectName": "CashFlow.Exception",
-        "projectPath": "D:\\Repositorios\\Rocketseat\\C#\\CashFlow\\src\\CashFlow.Exception\\CashFlow.Exception.csproj",
+        "projectPath": "D:\\Repositorios\\Rocketseat\\C#\\cash-flow-api\\src\\CashFlow.Exception\\CashFlow.Exception.csproj",
         "packagesPath": "C:\\Users\\natha\\.nuget\\packages\\",
-        "outputPath": "D:\\Repositorios\\Rocketseat\\C#\\CashFlow\\src\\CashFlow.Exception\\obj\\",
+        "outputPath": "D:\\Repositorios\\Rocketseat\\C#\\cash-flow-api\\src\\CashFlow.Exception\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -288,14 +288,14 @@
         }
       }
     },
-    "D:\\Repositorios\\Rocketseat\\C#\\CashFlow\\tests\\CommomTestUtilities\\CommomTestUtilities.csproj": {
+    "D:\\Repositorios\\Rocketseat\\C#\\cash-flow-api\\tests\\CommomTestUtilities\\CommomTestUtilities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Repositorios\\Rocketseat\\C#\\CashFlow\\tests\\CommomTestUtilities\\CommomTestUtilities.csproj",
+        "projectUniqueName": "D:\\Repositorios\\Rocketseat\\C#\\cash-flow-api\\tests\\CommomTestUtilities\\CommomTestUtilities.csproj",
         "projectName": "CommomTestUtilities",
-        "projectPath": "D:\\Repositorios\\Rocketseat\\C#\\CashFlow\\tests\\CommomTestUtilities\\CommomTestUtilities.csproj",
+        "projectPath": "D:\\Repositorios\\Rocketseat\\C#\\cash-flow-api\\tests\\CommomTestUtilities\\CommomTestUtilities.csproj",
         "packagesPath": "C:\\Users\\natha\\.nuget\\packages\\",
-        "outputPath": "D:\\Repositorios\\Rocketseat\\C#\\CashFlow\\tests\\CommomTestUtilities\\obj\\",
+        "outputPath": "D:\\Repositorios\\Rocketseat\\C#\\cash-flow-api\\tests\\CommomTestUtilities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -317,8 +317,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\Repositorios\\Rocketseat\\C#\\CashFlow\\src\\CashFlow.Communication\\CashFlow.Communication.csproj": {
-                "projectPath": "D:\\Repositorios\\Rocketseat\\C#\\CashFlow\\src\\CashFlow.Communication\\CashFlow.Communication.csproj"
+              "D:\\Repositorios\\Rocketseat\\C#\\cash-flow-api\\src\\CashFlow.Communication\\CashFlow.Communication.csproj": {
+                "projectPath": "D:\\Repositorios\\Rocketseat\\C#\\cash-flow-api\\src\\CashFlow.Communication\\CashFlow.Communication.csproj"
               }
             }
           }
@@ -363,14 +363,14 @@
         }
       }
     },
-    "D:\\Repositorios\\Rocketseat\\C#\\CashFlow\\tests\\Validators.Test\\Validators.Test.csproj": {
+    "D:\\Repositorios\\Rocketseat\\C#\\cash-flow-api\\tests\\Validators.Test\\Validators.Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Repositorios\\Rocketseat\\C#\\CashFlow\\tests\\Validators.Test\\Validators.Test.csproj",
+        "projectUniqueName": "D:\\Repositorios\\Rocketseat\\C#\\cash-flow-api\\tests\\Validators.Test\\Validators.Test.csproj",
         "projectName": "Validators.Test",
-        "projectPath": "D:\\Repositorios\\Rocketseat\\C#\\CashFlow\\tests\\Validators.Test\\Validators.Test.csproj",
+        "projectPath": "D:\\Repositorios\\Rocketseat\\C#\\cash-flow-api\\tests\\Validators.Test\\Validators.Test.csproj",
         "packagesPath": "C:\\Users\\natha\\.nuget\\packages\\",
-        "outputPath": "D:\\Repositorios\\Rocketseat\\C#\\CashFlow\\tests\\Validators.Test\\obj\\",
+        "outputPath": "D:\\Repositorios\\Rocketseat\\C#\\cash-flow-api\\tests\\Validators.Test\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -392,17 +392,17 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\Repositorios\\Rocketseat\\C#\\CashFlow\\src\\CashFlow.Application\\CashFlow.Application.csproj": {
-                "projectPath": "D:\\Repositorios\\Rocketseat\\C#\\CashFlow\\src\\CashFlow.Application\\CashFlow.Application.csproj"
+              "D:\\Repositorios\\Rocketseat\\C#\\cash-flow-api\\src\\CashFlow.Application\\CashFlow.Application.csproj": {
+                "projectPath": "D:\\Repositorios\\Rocketseat\\C#\\cash-flow-api\\src\\CashFlow.Application\\CashFlow.Application.csproj"
               },
-              "D:\\Repositorios\\Rocketseat\\C#\\CashFlow\\src\\CashFlow.Communication\\CashFlow.Communication.csproj": {
-                "projectPath": "D:\\Repositorios\\Rocketseat\\C#\\CashFlow\\src\\CashFlow.Communication\\CashFlow.Communication.csproj"
+              "D:\\Repositorios\\Rocketseat\\C#\\cash-flow-api\\src\\CashFlow.Communication\\CashFlow.Communication.csproj": {
+                "projectPath": "D:\\Repositorios\\Rocketseat\\C#\\cash-flow-api\\src\\CashFlow.Communication\\CashFlow.Communication.csproj"
               },
-              "D:\\Repositorios\\Rocketseat\\C#\\CashFlow\\src\\CashFlow.Exception\\CashFlow.Exception.csproj": {
-                "projectPath": "D:\\Repositorios\\Rocketseat\\C#\\CashFlow\\src\\CashFlow.Exception\\CashFlow.Exception.csproj"
+              "D:\\Repositorios\\Rocketseat\\C#\\cash-flow-api\\src\\CashFlow.Exception\\CashFlow.Exception.csproj": {
+                "projectPath": "D:\\Repositorios\\Rocketseat\\C#\\cash-flow-api\\src\\CashFlow.Exception\\CashFlow.Exception.csproj"
               },
-              "D:\\Repositorios\\Rocketseat\\C#\\CashFlow\\tests\\CommomTestUtilities\\CommomTestUtilities.csproj": {
-                "projectPath": "D:\\Repositorios\\Rocketseat\\C#\\CashFlow\\tests\\CommomTestUtilities\\CommomTestUtilities.csproj"
+              "D:\\Repositorios\\Rocketseat\\C#\\cash-flow-api\\tests\\CommomTestUtilities\\CommomTestUtilities.csproj": {
+                "projectPath": "D:\\Repositorios\\Rocketseat\\C#\\cash-flow-api\\tests\\CommomTestUtilities\\CommomTestUtilities.csproj"
               }
             }
           }

@@ -9,3 +9,15 @@ D:\Repositorios\Rocketseat\C#\CashFlow\src\CashFlow.Domain\obj\Debug\net8.0\Cash
 D:\Repositorios\Rocketseat\C#\CashFlow\src\CashFlow.Domain\obj\Debug\net8.0\refint\CashFlow.Domain.dll
 D:\Repositorios\Rocketseat\C#\CashFlow\src\CashFlow.Domain\obj\Debug\net8.0\CashFlow.Domain.pdb
 D:\Repositorios\Rocketseat\C#\CashFlow\src\CashFlow.Domain\obj\Debug\net8.0\ref\CashFlow.Domain.dll
+D:\Repositorios\Rocketseat\C#\cash-flow-api\src\CashFlow.Domain\bin\Debug\net8.0\CashFlow.Domain.deps.json
+D:\Repositorios\Rocketseat\C#\cash-flow-api\src\CashFlow.Domain\bin\Debug\net8.0\CashFlow.Domain.dll
+D:\Repositorios\Rocketseat\C#\cash-flow-api\src\CashFlow.Domain\bin\Debug\net8.0\CashFlow.Domain.pdb
+D:\Repositorios\Rocketseat\C#\cash-flow-api\src\CashFlow.Domain\obj\Debug\net8.0\CashFlow.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositorios\Rocketseat\C#\cash-flow-api\src\CashFlow.Domain\obj\Debug\net8.0\CashFlow.Domain.AssemblyInfoInputs.cache
+D:\Repositorios\Rocketseat\C#\cash-flow-api\src\CashFlow.Domain\obj\Debug\net8.0\CashFlow.Domain.AssemblyInfo.cs
+D:\Repositorios\Rocketseat\C#\cash-flow-api\src\CashFlow.Domain\obj\Debug\net8.0\CashFlow.Domain.csproj.CoreCompileInputs.cache
+D:\Repositorios\Rocketseat\C#\cash-flow-api\src\CashFlow.Domain\obj\Debug\net8.0\CashFlow.Domain.sourcelink.json
+D:\Repositorios\Rocketseat\C#\cash-flow-api\src\CashFlow.Domain\obj\Debug\net8.0\CashFlow.Domain.dll
+D:\Repositorios\Rocketseat\C#\cash-flow-api\src\CashFlow.Domain\obj\Debug\net8.0\refint\CashFlow.Domain.dll
+D:\Repositorios\Rocketseat\C#\cash-flow-api\src\CashFlow.Domain\obj\Debug\net8.0\CashFlow.Domain.pdb
+D:\Repositorios\Rocketseat\C#\cash-flow-api\src\CashFlow.Domain\obj\Debug\net8.0\ref\CashFlow.Domain.dll

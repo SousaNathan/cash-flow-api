@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Repositorios\\Rocketseat\\C#\\CashFlow\\src\\CashFlow.Infrastructure\\CashFlow.Infrastructure.csproj": {}
+    "D:\\Repositorios\\Rocketseat\\C#\\cash-flow-api\\src\\CashFlow.Infrastructure\\CashFlow.Infrastructure.csproj": {}
   },
   "projects": {
-    "D:\\Repositorios\\Rocketseat\\C#\\CashFlow\\src\\CashFlow.Domain\\CashFlow.Domain.csproj": {
+    "D:\\Repositorios\\Rocketseat\\C#\\cash-flow-api\\src\\CashFlow.Domain\\CashFlow.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Repositorios\\Rocketseat\\C#\\CashFlow\\src\\CashFlow.Domain\\CashFlow.Domain.csproj",
+        "projectUniqueName": "D:\\Repositorios\\Rocketseat\\C#\\cash-flow-api\\src\\CashFlow.Domain\\CashFlow.Domain.csproj",
         "projectName": "CashFlow.Domain",
-        "projectPath": "D:\\Repositorios\\Rocketseat\\C#\\CashFlow\\src\\CashFlow.Domain\\CashFlow.Domain.csproj",
+        "projectPath": "D:\\Repositorios\\Rocketseat\\C#\\cash-flow-api\\src\\CashFlow.Domain\\CashFlow.Domain.csproj",
         "packagesPath": "C:\\Users\\natha\\.nuget\\packages\\",
-        "outputPath": "D:\\Repositorios\\Rocketseat\\C#\\CashFlow\\src\\CashFlow.Domain\\obj\\",
+        "outputPath": "D:\\Repositorios\\Rocketseat\\C#\\cash-flow-api\\src\\CashFlow.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -69,14 +69,14 @@
         }
       }
     },
-    "D:\\Repositorios\\Rocketseat\\C#\\CashFlow\\src\\CashFlow.Infrastructure\\CashFlow.Infrastructure.csproj": {
+    "D:\\Repositorios\\Rocketseat\\C#\\cash-flow-api\\src\\CashFlow.Infrastructure\\CashFlow.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Repositorios\\Rocketseat\\C#\\CashFlow\\src\\CashFlow.Infrastructure\\CashFlow.Infrastructure.csproj",
+        "projectUniqueName": "D:\\Repositorios\\Rocketseat\\C#\\cash-flow-api\\src\\CashFlow.Infrastructure\\CashFlow.Infrastructure.csproj",
         "projectName": "CashFlow.Infrastructure",
-        "projectPath": "D:\\Repositorios\\Rocketseat\\C#\\CashFlow\\src\\CashFlow.Infrastructure\\CashFlow.Infrastructure.csproj",
+        "projectPath": "D:\\Repositorios\\Rocketseat\\C#\\cash-flow-api\\src\\CashFlow.Infrastructure\\CashFlow.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\natha\\.nuget\\packages\\",
-        "outputPath": "D:\\Repositorios\\Rocketseat\\C#\\CashFlow\\src\\CashFlow.Infrastructure\\obj\\",
+        "outputPath": "D:\\Repositorios\\Rocketseat\\C#\\cash-flow-api\\src\\CashFlow.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -98,8 +98,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\Repositorios\\Rocketseat\\C#\\CashFlow\\src\\CashFlow.Domain\\CashFlow.Domain.csproj": {
-                "projectPath": "D:\\Repositorios\\Rocketseat\\C#\\CashFlow\\src\\CashFlow.Domain\\CashFlow.Domain.csproj"
+              "D:\\Repositorios\\Rocketseat\\C#\\cash-flow-api\\src\\CashFlow.Domain\\CashFlow.Domain.csproj": {
+                "projectPath": "D:\\Repositorios\\Rocketseat\\C#\\cash-flow-api\\src\\CashFlow.Domain\\CashFlow.Domain.csproj"
               }
             }
           }

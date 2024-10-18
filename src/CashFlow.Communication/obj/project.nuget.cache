@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pgf8AWGZ5TI=",
+  "dgSpecHash": "mM1j3xnwuLc=",
   "success": true,
-  "projectFilePath": "D:\\Repositorios\\Rocketseat\\C#\\CashFlow\\src\\CashFlow.Communication\\CashFlow.Communication.csproj",
+  "projectFilePath": "D:\\Repositorios\\Rocketseat\\C#\\cash-flow-api\\src\\CashFlow.Communication\\CashFlow.Communication.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
