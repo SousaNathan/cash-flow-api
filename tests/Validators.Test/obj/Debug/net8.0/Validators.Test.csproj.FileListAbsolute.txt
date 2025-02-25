@@ -124,8 +124,8 @@ D:\Repositorios\Rocketseat\C#\cash-flow-api\tests\Validators.Test\bin\Debug\net8
 D:\Repositorios\Rocketseat\C#\cash-flow-api\tests\Validators.Test\bin\Debug\net8.0\CoverletSourceRootsMapping_Validators.Test
 D:\Repositorios\Rocketseat\C#\cash-flow-api\tests\Validators.Test\bin\Debug\net8.0\testhost.dll
 D:\Repositorios\Rocketseat\C#\cash-flow-api\tests\Validators.Test\bin\Debug\net8.0\xunit.abstractions.dll
-D:\Repositorios\Rocketseat\C#\cash-flow-api\tests\Validators.Test\bin\Debug\net8.0\xunit.runner.visualstudio.testadapter.dll
 D:\Repositorios\Rocketseat\C#\cash-flow-api\tests\Validators.Test\bin\Debug\net8.0\testhost.exe
+D:\Repositorios\Rocketseat\C#\cash-flow-api\tests\Validators.Test\bin\Debug\net8.0\xunit.runner.visualstudio.testadapter.dll
 D:\Repositorios\Rocketseat\C#\cash-flow-api\tests\Validators.Test\bin\Debug\net8.0\Validators.Test.deps.json
 D:\Repositorios\Rocketseat\C#\cash-flow-api\tests\Validators.Test\bin\Debug\net8.0\Validators.Test.runtimeconfig.json
 D:\Repositorios\Rocketseat\C#\cash-flow-api\tests\Validators.Test\bin\Debug\net8.0\Validators.Test.dll
