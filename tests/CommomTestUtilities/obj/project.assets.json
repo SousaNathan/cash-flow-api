@@ -2,7 +2,7 @@
   "version": 3,
   "targets": {
     "net8.0": {
-      "Bogus/35.6.1": {
+      "Bogus/35.6.2": {
         "type": "package",
         "compile": {
           "lib/net6.0/Bogus.dll": {
@@ -28,14 +28,16 @@
     }
   },
   "libraries": {
-    "Bogus/35.6.1": {
-      "sha512": "QPJ8zLL0ScEunEoUNhMDigD4ykA/n7vXCZUQdGCFGHBfP2mNYjiCzR9Cj12eaFaDlwkhIC1HKQZihWl8OgbLsw==",
+    "Bogus/35.6.2": {
+      "sha512": "u3XtrfDqwNDqmJiUA6AnUBGU2169av3BtBOrcgp1JZb2RVCg6P6JOTcJvXCLDd6YiRZFKxuoujiWM951Ze8D5w==",
       "type": "package",
-      "path": "bogus/35.6.1",
+      "path": "bogus/35.6.2",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
-        "bogus.35.6.1.nupkg.sha512",
+        "LICENSE",
+        "bogus.128.png",
+        "bogus.35.6.2.nupkg.sha512",
         "bogus.nuspec",
         "lib/net40/Bogus.dll",
         "lib/net40/Bogus.xml",
@@ -55,7 +57,7 @@
   },
   "projectFileDependencyGroups": {
     "net8.0": [
-      "Bogus >= 35.6.1",
+      "Bogus >= 35.6.2",
       "CashFlow.Communication >= 1.0.0"
     ]
   },
@@ -85,7 +87,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -106,8 +107,9 @@
       "restoreAuditProperties": {
         "enableAudit": "true",
         "auditLevel": "low",
-        "auditMode": "direct"
-      }
+        "auditMode": "all"
+      },
+      "SdkAnalysisLevel": "9.0.100"
     },
     "frameworks": {
       "net8.0": {
@@ -115,7 +117,7 @@
         "dependencies": {
           "Bogus": {
             "target": "Package",
-            "version": "[35.6.1, )"
+            "version": "[35.6.2, )"
           }
         },
         "imports": [
@@ -134,7 +136,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

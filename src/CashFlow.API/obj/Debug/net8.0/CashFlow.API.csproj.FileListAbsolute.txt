@@ -267,3 +267,7 @@ D:\Repositorios\Rocketseat\C#\cash-flow-api\src\CashFlow.API\obj\Debug\net8.0\re
 D:\Repositorios\Rocketseat\C#\cash-flow-api\src\CashFlow.API\obj\Debug\net8.0\CashFlow.API.pdb
 D:\Repositorios\Rocketseat\C#\cash-flow-api\src\CashFlow.API\obj\Debug\net8.0\CashFlow.API.genruntimeconfig.cache
 D:\Repositorios\Rocketseat\C#\cash-flow-api\src\CashFlow.API\obj\Debug\net8.0\ref\CashFlow.API.dll
+D:\Repositorios\Rocketseat\C#\cash-flow-api\src\CashFlow.API\bin\Debug\net8.0\CashFlow.API.staticwebassets.endpoints.json
+D:\Repositorios\Rocketseat\C#\cash-flow-api\src\CashFlow.API\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\Repositorios\Rocketseat\C#\cash-flow-api\src\CashFlow.API\obj\Debug\net8.0\staticwebassets\msbuild.CashFlow.API.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\Repositorios\Rocketseat\C#\cash-flow-api\src\CashFlow.API\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
